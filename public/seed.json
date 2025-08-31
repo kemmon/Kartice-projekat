@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "k1-1",
+    "kapitel": 1,
+    "de": {
+      "word": "die Klimaanlage, -n",
+      "synonym": null,
+      "explanation": "Eine technische Anlage zur Kühlung und Belüftung von Räumen, besonders bei hohen Temperaturen.",
+      "example": "Die Klimaanlage sorgt für eine angenehme Temperatur im Büro, auch im Sommer."
+    },
+    "bs": {
+      "word": "klima uređaj",
+      "explanation_translation": "Tehnički uređaj za hlađenje i ventilaciju prostorija, posebno pri visokim temperaturama.",
+      "example_translation": "Klima uređaj osigurava ugodnu temperaturu u uredu, čak i ljeti."
+    }
+  },
+  {
+    "id": "k1-2",
+    "kapitel": 1,
+    "de": {
+      "word": "die Leiter, –",
+      "synonym": null,
+      "explanation": "Ein Gerät mit Sprossen oder Stufen, das man benutzt, um in die Höhe zu steigen.",
+      "example": "Der Handwerker brauchte eine Leiter, um die Deckenlampe zu reparieren."
+    },
+    "bs": {
+      "word": "ljestve",
+      "explanation_translation": "Sprava sa prečkama ili stepenicama koja se koristi za penjanje u visinu.",
+      "example_translation": "Majstor je trebao ljestve da popravi plafonsku lampu."
+    }
+  },
+  {
+    "id": "k1-3",
+    "kapitel": 1,
+    "de": {
+      "word": "die Werkbank, ¨e",
+      "synonym": null,
+      "explanation": "Ein stabiler Arbeitstisch in einer Werkstatt für handwerkliche Arbeiten.",
+      "example": "Auf der Werkbank liegen alle wichtigen Werkzeuge bereit."
+    },
+    "bs": {
+      "word": "radni sto, radni pult",
+      "explanation_translation": "Stabilan radni sto u radionici za zanatske radove.",
+      "example_translation": "Na radnom stolu je sav važan alat spreman."
+    }
+  },
+  {
+    "id": "k1-4",
+    "kapitel": 1,
+    "de": {
+      "word": "der Werkzeugkasten, ¨",
+      "synonym": null,
+      "explanation": "Ein Behälter zum Aufbewahren und Transportieren von Werkzeugen.",
+      "example": "Bitte gib mir den Schraubenzieher aus dem Werkzeugkasten."
+    },
+    "bs": {
+      "word": "kutija za alat",
+      "explanation_translation": "Posuda za skladištenje i transport alata.",
+      "example_translation": "Molim te, daj mi odvijač iz kutije za alat."
+    }
+  },
+  {
+    "id": "k1-5",
+    "kapitel": 1,
+    "de": {
+      "word": "der Schutzhelm, -e",
+      "synonym": null,
+      "explanation": "Ein Helm, der den Kopf vor Verletzungen schützt, oft auf Baustellen getragen.",
+      "example": "Auf der Baustelle muss jeder einen Schutzhelm tragen."
+    },
+    "bs": {
+      "word": "zaštitna kaciga",
+      "explanation_translation": "Kaciga koja štiti glavu od povreda, često se nosi na gradilištima.",
+      "example_translation": "Na gradilištu svako mora nositi zaštitnu kacigu."
+    }
+  },
+  {
+    "id": "k1-6",
+    "kapitel": 1,
+    "de": {
+      "word": "sanitäre Anlagen installieren",
+      "synonym": null,
+      "explanation": "Das Einbauen von Toiletten, Waschbecken, Duschen und anderen Einrichtungen für die Wasserversorgung und -entsorgung.",
+      "example": "Wir müssen in der neuen Wohnung noch die sanitären Anlagen installieren lassen."
+    },
+    "bs": {
+      "word": "instalirati sanitarne uređaje",
+      "explanation_translation": "Ugradnja toaleta, lavaboa, tuševa i drugih instalacija za vodosnabdijevanje i odvodnju.",
+      "example_translation": "Moramo još instalirati sanitarne uređaje u novom stanu."
+    }
+  },
+  {
+    "id": "k1-7",
+    "kapitel": 1,
+    "de": {
+      "word": "verstopfte Rohre reinigen",
+      "synonym": null,
+      "explanation": "Blockierte Wasserleitungen von Schmutz oder Ablagerungen befreien, damit das Wasser wieder abfließen kann.",
+      "example": "Nach dem Duschen mussten wir oft die verstopften Rohre reinigen."
+    },
+    "bs": {
+      "word": "čistiti začepljene cijevi",
+      "explanation_translation": "Oslobađanje blokiranih vodovodnih cijevi od prljavštine ili naslaga, kako bi voda ponovo mogla oticati.",
+      "example_translation": "Nakon tuširanja često smo morali čistiti začepljene cijevi."
+    }
+  },
+  {
+    "id": "k1-8",
+    "kapitel": 1,
+    "de": {
+      "word": "die Mieterhöhung, -en",
+      "synonym": null,
+      "explanation": "Eine Anhebung des Mietpreises für eine Wohnung oder einen Geschäftsraum durch den Vermieter.",
+      "example": "Der Vermieter hat eine Mieterhöhung angekündigt, die ab nächstem Jahr gilt."
+    },
+    "bs": {
+      "word": "povećanje najamnine",
+      "explanation_translation": "Povećanje cijene najma stana ili poslovnog prostora od strane stanodavca.",
+      "example_translation": "Stanodavac je najavio povećanje najamnine koje važi od sljedeće godine."
+    }
+  },
+  {
+    "id": "k1-9",
+    "kapitel": 1,
+    "de": {
+      "word": "die Zusage, -n",
+      "synonym": "die Bestätigung",
+      "explanation": "Eine positive Antwort oder Bestätigung auf eine Anfrage oder ein Angebot.",
+      "example": "Wir warten noch auf die Zusage für die neue Stelle."
+    },
+    "bs": {
+      "word": "potvrda, pristanak",
+      "explanation_translation": "Pozitivan odgovor ili potvrda na upit ili ponudu.",
+      "example_translation": "Još čekamo potvrdu za novo radno mjesto."
+    }
+  },
+  {
+    "id": "k1-10",
+    "kapitel": 1,
+    "de": {
+      "word": "stundenlang",
+      "synonym": "sehr lange",
+      "explanation": "Über einen Zeitraum von vielen Stunden hinweg.",
+      "example": "Er hat stundenlang am Computer gearbeitet, ohne Pause zu machen."
+    },
+    "bs": {
+      "word": "satima",
+      "explanation_translation": "Tokom perioda od mnogo sati.",
+      "example_translation": "On je satima radio na računaru, bez pauze."
+    }
+  },
+  {
+    "id": "k1-11",
+    "kapitel": 1,
+    "de": {
+      "word": "das Onlineportal, -e",
+      "synonym": "die Onlineplattform",
+      "explanation": "Eine Webseite, die verschiedene Dienstleistungen, Informationen oder Angebote im Internet bereitstellt.",
+      "example": "Ich habe die Wohnung auf einem bekannten Onlineportal gefunden."
+    },
+    "bs": {
+      "word": "online portal",
+      "explanation_translation": "Web stranica koja pruža različite usluge, informacije ili ponude na internetu.",
+      "example_translation": "Pronašao sam stan na poznatom online portalu."
+    }
+  },
+  {
+    "id": "k1-12",
+    "kapitel": 1,
+    "de": {
+      "word": "das Objekt, -e",
+      "synonym": "das Gebäude",
+      "explanation": "Ein Gegenstand, ein Gebäude oder ein Grundstück, das betrachtet oder bearbeitet wird, oft im Kontext von Immobilien.",
+      "example": "Das Immobilienbüro hat mehrere interessante Objekte im Angebot."
+    },
+    "bs": {
+      "word": "objekat",
+      "explanation_translation": "Predmet, zgrada ili zemljište koje se posmatra ili obrađuje, često u kontekstu nekretnina.",
+      "example_translation": "Agencija za nekretnine ima nekoliko zanimljivih objekata u ponudi."
+    }
+  },
+  {
+    "id": "k1-13",
+    "kapitel": 1,
+    "de": {
+      "word": "der Grundriss, -e",
+      "synonym": null,
+      "explanation": "Eine technische Zeichnung, die die Aufteilung eines Gebäudes oder einer Wohnung von oben zeigt.",
+      "example": "Der Grundriss hilft uns, uns die Raumaufteilung besser vorzustellen."
+    },
+    "bs": {
+      "word": "tlocrt",
+      "explanation_translation": "Tehnički crtež koji odozgo prikazuje raspored zgrade ili stana.",
+      "example_translation": "Tlocrt nam pomaže da bolje zamislimo raspored prostorija."
+    }
+  },
+  {
+    "id": "k1-14",
+    "kapitel": 1,
+    "de": {
+      "word": "jdn. (über etwas) auf dem Laufenden halten",
+      "synonym": "informieren",
+      "explanation": "Jemanden regelmäßig über aktuelle Entwicklungen oder Informationen zu einem Thema informieren.",
+      "example": "Bitte halten Sie mich über den Fortschritt des Projekts auf dem Laufenden."
+    },
+    "bs": {
+      "word": "nekoga (o nečemu) obavještavati/držati u toku",
+      "explanation_translation": "Redovno informisati nekoga o aktuelnim dešavanjima ili informacijama o nekoj temi.",
+      "example_translation": "Molim vas, držite me u toku s napretkom projekta."
+    }
+  },
+  {
+    "id": "k1-15",
+    "kapitel": 1,
+    "de": {
+      "word": "der Interessent, -en",
+      "synonym": null,
+      "explanation": "Eine Person, die Interesse an etwas hat, zum Beispiel an einer Wohnung oder einem Produkt.",
+      "example": "Wir haben mehrere Interessenten für die Wohnung, die sie besichtigen möchten."
+    },
+    "bs": {
+      "word": "zainteresovana osoba (muški rod)",
+      "explanation_translation": "Osoba koja pokazuje interes za nešto, na primjer za stan ili proizvod.",
+      "example_translation": "Imamo nekoliko zainteresovanih za stan koji bi ga željeli razgledati."
+    }
+  },
+  {
+    "id": "k1-16",
+    "kapitel": 1,
+    "de": {
+      "word": "die Interessentin, -nen",
+      "synonym": null,
+      "explanation": "Eine Frau, die Interesse an etwas hat, zum Beispiel an einer Wohnung oder einem Produkt.",
+      "example": "Eine Interessentin hat bereits einen Termin für die Besichtigung vereinbart."
+    },
+    "bs": {
+      "word": "zainteresovana osoba (ženski rod)",
+      "explanation_translation": "Žena koja pokazuje interes za nešto, na primjer za stan ili proizvod.",
+      "example_translation": "Jedna zainteresovana osoba (ž.) je već dogovorila termin za razgledanje."
+    }
+  },
+  {
+    "id": "k1-17",
+    "kapitel": 1,
+    "de": {
+      "word": "die Altbauwohnung, -en",
+      "synonym": null,
+      "explanation": "Eine Wohnung in einem Gebäude, das vor einer bestimmten Zeit (oft vor dem Zweiten Weltkrieg) gebaut wurde und meist hohe Decken und Stuck hat.",
+      "example": "Sie wohnen in einer wunderschönen Altbauwohnung mit großen Fenstern."
+    },
+    "bs": {
+      "word": "stan u staroj zgradi",
+      "explanation_translation": "Stan u zgradi koja je izgrađena prije određenog vremena (često prije Drugog svjetskog rata) i obično ima visoke plafone i štukature.",
+      "example_translation": "Žive u prekrasnom stanu u staroj zgradi s velikim prozorima."
+    }
+  },
+  {
+    "id": "k1-18",
+    "kapitel": 1,
+    "de": {
+      "word": "die Einbauküche, -n",
+      "synonym": null,
+      "explanation": "Eine Küche, deren Möbel und Geräte fest in den Raum integriert sind und oft zur Wohnung gehören.",
+      "example": "Die Wohnung wird mit einer modernen Einbauküche vermietet."
+    },
+    "bs": {
+      "word": "ugradbena kuhinja",
+      "explanation_translation": "Kuhinja čiji su namještaj i aparati fiksno integrisani u prostoriju i često pripadaju stanu.",
+      "example_translation": "Stan se iznajmljuje sa modernom ugradbenom kuhinjom."
+    }
+  },
+  {
+    "id": "k1-19",
+    "kapitel": 1,
+    "de": {
+      "word": "der Fahrstuhl, ¨e",
+      "synonym": "der Aufzug",
+      "explanation": "Eine Kabine, die Personen oder Lasten in einem Gebäude vertikal transportiert.",
+      "example": "Der Fahrstuhl ist kaputt, wir müssen die Treppe nehmen."
+    },
+    "bs": {
+      "word": "lift",
+      "explanation_translation": "Kabina koja vertikalno prevozi osobe ili teret u zgradi.",
+      "example_translation": "Lift je pokvaren, moramo ići stepenicama."
+    }
+  },
+  {
+    "id": "k1-20",
+    "kapitel": 1,
+    "de": {
+      "word": "das Erfolgserlebnis, -se",
+      "synonym": null,
+      "explanation": "Das positive Gefühl, wenn man etwas erfolgreich abgeschlossen oder erreicht hat.",
+      "example": "Ein kleines Erfolgserlebnis motiviert mich, weiterzumachen."
+    },
+    "bs": {
+      "word": "osjećaj uspjeha, doživljaj uspjeha",
+      "explanation_translation": "Pozitivan osjećaj kada se nešto uspješno završi ili postigne.",
+      "example_translation": "Mali osjećaj uspjeha me motiviše da nastavim dalje."
+    }
+  },
+  {
+    "id": "k1-21",
+    "kapitel": 1,
+    "de": {
+      "word": "die Werkstatt, ¨en",
+      "synonym": null,
+      "explanation": "Ein Raum oder Gebäude, in dem handwerkliche Arbeiten ausgeführt oder Reparaturen vorgenommen werden.",
+      "example": "Er verbringt viel Zeit in seiner Werkstatt und repariert alte Möbel."
+    },
+    "bs": {
+      "word": "radionica",
+      "explanation_translation": "Prostorija ili zgrada u kojoj se obavljaju zanatski radovi ili popravke.",
+      "example_translation": "On provodi mnogo vremena u svojoj radionici i popravlja stari namještaj."
+    }
+  },
+  {
+    "id": "k1-22",
+    "kapitel": 1,
+    "de": {
+      "word": "die Hausverwaltung, -en",
+      "synonym": null,
+      "explanation": "Ein Unternehmen oder eine Person, die sich um die Organisation und Instandhaltung eines Wohn- oder Geschäftsgebäudes kümmert.",
+      "example": "Bei Problemen mit der Heizung wenden Sie sich bitte an die Hausverwaltung."
+    },
+    "bs": {
+      "word": "upravljanje zgradom, kućepaziteljstvo",
+      "explanation_translation": "Preduzeće ili osoba koja se brine o organizaciji i održavanju stambene ili poslovne zgrade.",
+      "example_translation": "U slučaju problema s grijanjem, obratite se upravi zgrade."
+    }
+  },
+  {
+    "id": "k1-23",
+    "kapitel": 1,
+    "de": {
+      "word": "die Daumen drücken",
+      "synonym": "Glück wünschen",
+      "explanation": "Jemandem Glück wünschen oder hoffen, dass etwas gut ausgeht.",
+      "example": "Ich drücke dir die Daumen für deine Prüfung!"
+    },
+    "bs": {
+      "word": "držati palčeve",
+      "explanation_translation": "Nekome poželjeti sreću ili se nadati da će nešto dobro proći.",
+      "example_translation": "Držim ti palčeve za ispit!"
+    }
+  },
+  {
+    "id": "k1-24",
+    "kapitel": 1,
+    "de": {
+      "word": "sich vormerken lassen",
+      "synonym": "sich eintragen lassen",
+      "explanation": "Den Wunsch äußern, für eine zukünftige Möglichkeit oder ein Angebot berücksichtigt zu werden und sich dafür registrieren zu lassen.",
+      "example": "Ich habe mich für die Warteliste für die neue Wohnung vormerken lassen."
+    },
+    "bs": {
+      "word": "dati se upisati/rezervisati",
+      "explanation_translation": "Izraziti želju da se uzme u obzir za buduću mogućnost ili ponudu i registrovati se za to.",
+      "example_translation": "Dao sam se upisati na listu čekanja za novi stan."
+    }
+  },
+  {
+    "id": "k1-25",
+    "kapitel": 1,
+    "de": {
+      "word": "der Auszug, ¨e",
+      "synonym": "der Umzug aus einer Wohnung",
+      "explanation": "Der Vorgang, bei dem jemand seine Wohnung verlässt und an einen anderen Ort zieht.",
+      "example": "Der Auszug aus der alten Wohnung war sehr anstrengend."
+    },
+    "bs": {
+      "word": "iseljenje",
+      "explanation_translation": "Proces u kojem neko napušta svoj stan i seli se na drugo mjesto.",
+      "example_translation": "Iseljenje iz starog stana je bilo vrlo naporno."
+    }
+  },
+  {
+    "id": "k1-26",
+    "kapitel": 1,
+    "de": {
+      "word": "sanieren",
+      "synonym": "renovieren",
+      "explanation": "Ein altes Gebäude oder einen Raum gründlich erneuern und modernisieren, um den Zustand zu verbessern.",
+      "example": "Die alte Fabrikhalle soll zu einem modernen Bürokomplex saniert werden."
+    },
+    "bs": {
+      "word": "sanirati, renovirati",
+      "explanation_translation": "Temeljito obnoviti i modernizovati staru zgradu ili prostoriju kako bi se poboljšalo stanje.",
+      "example_translation": "Stara fabrička hala treba biti sanirana u moderni poslovni kompleks."
+    }
+  },
+  {
+    "id": "k1-27",
+    "kapitel": 1,
+    "de": {
+      "word": "abschleifen",
+      "synonym": "glätten",
+      "explanation": "Eine Oberfläche glatt machen oder alte Schichten entfernen, indem man sie mit Schleifpapier oder einer Maschine bearbeitet.",
+      "example": "Bevor wir den Tisch neu lackieren, müssen wir die Oberfläche abschleifen."
+    },
+    "bs": {
+      "word": "brusiti",
+      "explanation_translation": "Zagladiti površinu ili ukloniti stare slojeve obrađujući ih brusnim papirom ili mašinom.",
+      "example_translation": "Prije nego što ponovo lakiramo sto, moramo izbrusiti površinu."
+    }
+  },
+  {
+    "id": "k1-28",
+    "kapitel": 1,
+    "de": {
+      "word": "anschließen",
+      "synonym": "verbinden",
+      "explanation": "Ein Gerät oder eine Leitung mit einer anderen Vorrichtung oder einem Netz verbinden, um es funktionsfähig zu machen.",
+      "example": "Der Techniker wird morgen den neuen Router anschließen."
+    },
+    "bs": {
+      "word": "priključiti, povezati",
+      "explanation_translation": "Priključiti uređaj ili kabl na drugi uređaj ili mrežu kako bi postao funkcionalan.",
+      "example_translation": "Tehničar će sutra priključiti novi ruter."
+    }
+  },
+  {
+    "id": "k1-29",
+    "kapitel": 1,
+    "de": {
+      "word": "die Leitung, -en",
+      "synonym": "die Rohrleitung",
+      "explanation": "Eine Röhre oder ein Kabel zum Transport von Flüssigkeiten, Gasen oder Elektrizität; auch die Führung einer Organisation.",
+      "example": "Es gibt ein Problem mit der Wasserleitung im Badezimmer."
+    },
+    "bs": {
+      "word": "vod, cijev, rukovodstvo",
+      "explanation_translation": "Cijev ili kabl za transport tekućina, gasova ili električne energije; također vođenje organizacije.",
+      "example_translation": "Postoji problem sa vodovodnom cijevi u kupatilu."
+    }
+  },
+  {
+    "id": "k1-30",
+    "kapitel": 1,
+    "de": {
+      "word": "die Spedition, -en",
+      "synonym": "das Transportunternehmen",
+      "explanation": "Ein Unternehmen, das den Transport von Gütern organisiert und durchführt.",
+      "example": "Die Spedition liefert unsere Möbel direkt in die neue Wohnung."
+    },
+    "bs": {
+      "word": "špedicija, transportno preduzeće",
+      "explanation_translation": "Preduzeće koje organizuje i obavlja transport robe.",
+      "example_translation": "Špedicija isporučuje naš namještaj direktno u novi stan."
+    }
+  },
+  {
+    "id": "k1-31",
+    "kapitel": 1,
+    "de": {
+      "word": "aus Sicherheitsgründen",
+      "synonym": null,
+      "explanation": "Wegen der Notwendigkeit, Sicherheit zu gewährleisten oder Gefahren zu vermeiden.",
+      "example": "Aus Sicherheitsgründen ist das Betreten der Baustelle verboten."
+    },
+    "bs": {
+      "word": "iz sigurnosnih razloga",
+      "explanation_translation": "Zbog potrebe da se osigura sigurnost ili izbjegnu opasnosti.",
+      "example_translation": "Iz sigurnosnih razloga je ulazak na gradilište zabranjen."
+    }
+  },
+  {
+    "id": "k1-32",
+    "kapitel": 1,
+    "de": {
+      "word": "der Nachsendeantrag, ¨e",
+      "synonym": null,
+      "explanation": "Ein Antrag bei der Post, damit Briefe und Pakete nach einem Umzug an die neue Adresse weitergeleitet werden.",
+      "example": "Ich muss noch einen Nachsendeantrag stellen, damit meine Post ankommt."
+    },
+    "bs": {
+      "word": "zahtjev za preusmjeravanje pošte",
+      "explanation_translation": "Zahtjev pošti da se pisma i paketi nakon selidbe proslijede na novu adresu.",
+      "example_translation": "Moram još podnijeti zahtjev za preusmjeravanje pošte kako bi mi pošta stigla."
+    }
+  },
+  {
+    "id": "k1-33",
+    "kapitel": 1,
+    "de": {
+      "word": "einen Nachsendeantrag stellen",
+      "synonym": null,
+      "explanation": "Bei der Post beantragen, dass Postsendungen an eine neue Adresse umgeleitet werden.",
+      "example": "Vergessen Sie nicht, rechtzeitig einen Nachsendeantrag zu stellen."
+    },
+    "bs": {
+      "word": "podnijeti zahtjev za preusmjeravanje pošte",
+      "explanation_translation": "Podnijeti zahtjev pošti da se poštanske pošiljke preusmjere na novu adresu.",
+      "example_translation": "Ne zaboravite na vrijeme podnijeti zahtjev za preusmjeravanje pošte."
+    }
+  },
+  {
+    "id": "k1-34",
+    "kapitel": 1,
+    "de": {
+      "word": "der Umzugskarton, -s",
+      "synonym": null,
+      "explanation": "Eine spezielle, stabile Kartonschachtel, die zum Verpacken von Gegenständen bei einem Umzug verwendet wird.",
+      "example": "Wir brauchen noch mehr Umzugskartons für unsere Bücher."
+    },
+    "bs": {
+      "word": "kutija za selidbu",
+      "explanation_translation": "Posebna, stabilna kartonska kutija koja se koristi za pakovanje stvari prilikom selidbe.",
+      "example_translation": "Trebamo još kutija za selidbu za naše knjige."
+    }
+  },
+  {
+    "id": "k1-35",
+    "kapitel": 1,
+    "de": {
+      "word": "der Einkommensnachweis, -e",
+      "synonym": null,
+      "explanation": "Ein Dokument, das belegt, wie hoch das Einkommen einer Person ist, oft erforderlich bei der Wohnungssuche.",
+      "example": "Für die Anmietung der Wohnung benötigt der Vermieter einen Einkommensnachweis."
+    },
+    "bs": {
+      "word": "dokaz o prihodima",
+      "explanation_translation": "Dokument koji dokazuje visinu prihoda osobe, često potreban prilikom traženja stana.",
+      "example_translation": "Za iznajmljivanje stana stanodavcu je potreban dokaz o prihodima."
+    }
+  },
+  {
+    "id": "k1-36",
+    "kapitel": 1,
+    "de": {
+      "word": "das Maklerbüro, -s",
+      "synonym": "das Immobilienbüro",
+      "explanation": "Ein Unternehmen, das Immobilien vermittelt, d.h., Käufer und Verkäufer oder Mieter und Vermieter zusammenbringt.",
+      "example": "Wir haben das Maklerbüro beauftragt, eine passende Wohnung für uns zu finden."
+    },
+    "bs": {
+      "word": "brokerska agencija, agencija za nekretnine",
+      "explanation_translation": "Preduzeće koje posreduje u prometu nekretninama, tj. spaja kupce i prodavce ili najmoprimce i najmodavce.",
+      "example_translation": "Angažovali smo brokersku agenciju da nam pronađe odgovarajući stan."
+    }
+  },
+  {
+    "id": "k1-37",
+    "kapitel": 1,
+    "de": {
+      "word": "sich ummelden",
+      "synonym": "den Wohnsitz ändern",
+      "explanation": "Seinen Wohnsitz bei der Behörde offiziell wechseln und die neue Adresse angeben.",
+      "example": "Nach dem Umzug muss man sich innerhalb von zwei Wochen ummelden."
+    },
+    "bs": {
+      "word": "prijaviti se (na novu adresu), promijeniti prijavu",
+      "explanation_translation": "Zvanično promijeniti prebivalište kod nadležnog organa i navesti novu adresu.",
+      "example_translation": "Nakon selidbe se morate prijaviti u roku od dvije sedmice."
+    }
+  },
+  {
+    "id": "k1-38",
+    "kapitel": 1,
+    "de": {
+      "word": "die Kaution, -en",
+      "synonym": "die Mietsicherheit",
+      "explanation": "Ein Geldbetrag, den der Mieter an den Vermieter zahlt, als Sicherheit für mögliche Schäden oder ausstehende Mietzahlungen.",
+      "example": "Die Kaution wird in der Regel bei Auszug zurückgezahlt, wenn keine Schäden entstanden sind."
+    },
+    "bs": {
+      "word": "kaucija",
+      "explanation_translation": "Iznos novca koji najmoprimac plaća najmodavcu kao osiguranje za moguće štete ili neplaćene najamnine.",
+      "example_translation": "Kaucija se obično vraća prilikom iseljenja, ako nije nastala šteta."
+    }
+  },
+  {
+    "id": "k1-39",
+    "kapitel": 1,
+    "de": {
+      "word": "eine Kaution hinterlegen",
+      "synonym": null,
+      "explanation": "Einen Geldbetrag als Sicherheit an den Vermieter zahlen.",
+      "example": "Wir mussten eine Kaution in Höhe von drei Monatsmieten hinterlegen."
+    },
+    "bs": {
+      "word": "položiti kauciju",
+      "explanation_translation": "Uplatiti novčani iznos kao osiguranje stanodavcu.",
+      "example_translation": "Morali smo položiti kauciju u visini tri mjesečne najamnine."
+    }
+  },
+  {
+    "id": "k1-40",
+    "kapitel": 1,
+    "de": {
+      "word": "der Besichtigungstermin, -e",
+      "synonym": null,
+      "explanation": "Ein vereinbarter Zeitpunkt, zu dem man eine Wohnung oder ein Objekt ansehen kann.",
+      "example": "Der Besichtigungstermin für die Wohnung ist am Freitag um 15 Uhr."
+    },
+    "bs": {
+      "word": "termin za razgledanje (stana/nekretnine)",
+      "explanation_translation": "Dogovoreni termin kada se može pogledati stan ili objekat.",
+      "example_translation": "Termin za razgledanje stana je u petak u 15 sati."
+    }
+  },
+  {
+    "id": "k1-41",
+    "kapitel": 1,
+    "de": {
+      "word": "die Praxis, Praxen",
+      "synonym": "die Arztpraxis",
+      "explanation": "Der Ort, wo Ärzte, Therapeuten oder Anwälte ihre Berufstätigkeit ausüben; auch die tatsächliche Anwendung von Wissen.",
+      "example": "Die neue Praxis befindet sich im Erdgeschoss des Gebäudes."
+    },
+    "bs": {
+      "word": "praksa, ordinacija",
+      "explanation_translation": "Mjesto gdje ljekari, terapeuti ili advokati obavljaju svoju profesionalnu djelatnost; također stvarna primjena znanja.",
+      "example_translation": "Nova ordinacija se nalazi u prizemlju zgrade."
+    }
+  },
+  {
+    "id": "k1-42",
+    "kapitel": 1,
+    "de": {
+      "word": "sich kümmern (um + A.)",
+      "synonym": "sich sorgen um",
+      "explanation": "Verantwortung für jemanden oder etwas übernehmen und dafür sorgen, dass es gut geht oder dass etwas erledigt wird.",
+      "example": "Er kümmert sich um die Reparaturen im Haus."
+    },
+    "bs": {
+      "word": "brinuti se (o/za nešto/nekoga)",
+      "explanation_translation": "Preuzeti odgovornost za nekoga ili nešto i brinuti se da je dobro ili da se nešto obavi.",
+      "example_translation": "On se brine o popravkama u kući."
+    }
+  },
+  {
+    "id": "k1-43",
+    "kapitel": 1,
+    "de": {
+      "word": "die Branche, -n",
+      "synonym": "der Sektor",
+      "explanation": "Ein bestimmter Wirtschaftszweig oder Geschäftsbereich, z.B. die IT-Branche oder die Immobilienbranche.",
+      "example": "Sie arbeitet seit vielen Jahren in der Finanzbranche."
+    },
+    "bs": {
+      "word": "grana privrede, branša",
+      "explanation_translation": "Određena ekonomska grana ili poslovna oblast, npr. IT-branša ili branša nekretnina.",
+      "example_translation": "Ona radi dugi niz godina u finansijskoj branši."
+    }
+  },
+  {
+    "id": "k1-44",
+    "kapitel": 1,
+    "de": {
+      "word": "das/der Start-up, -s",
+      "synonym": "das Jungunternehmen",
+      "explanation": "Ein neu gegründetes Unternehmen, das oft innovative Geschäftsideen verfolgt und schnell wachsen möchte.",
+      "example": "Viele junge Leute träumen davon, ein eigenes Start-up zu gründen."
+    },
+    "bs": {
+      "word": "start-up (mlado preduzeće)",
+      "explanation_translation": "Novoosnovano preduzeće koje često slijedi inovativne poslovne ideje i želi brzo rasti.",
+      "example_translation": "Mnogi mladi ljudi sanjaju o osnivanju vlastitog start-upa."
+    }
+  },
+  {
+    "id": "k1-45",
+    "kapitel": 1,
+    "de": {
+      "word": "die Checkliste, -n",
+      "synonym": null,
+      "explanation": "Eine Liste von Punkten oder Aufgaben, die abgearbeitet oder überprüft werden müssen.",
+      "example": "Ich habe eine Checkliste für den Umzug erstellt, damit ich nichts vergesse."
+    },
+    "bs": {
+      "word": "kontrolna lista, lista za provjeru",
+      "explanation_translation": "Lista tačaka ili zadataka koje treba obraditi ili provjeriti.",
+      "example_translation": "Napravio sam kontrolnu listu za selidbu kako ništa ne bih zaboravio."
+    }
+  },
+  {
+    "id": "k1-46",
+    "kapitel": 1,
+    "de": {
+      "word": "der Gewerberaum, -räume",
+      "synonym": "der Geschäftsraum",
+      "explanation": "Ein Raum oder Gebäude, das für gewerbliche Zwecke, z.B. als Büro, Laden oder Werkstatt, genutzt wird.",
+      "example": "Wir suchen einen geeigneten Gewerberaum für unser neues Café."
+    },
+    "bs": {
+      "word": "poslovni prostor",
+      "explanation_translation": "Prostorija ili zgrada koja se koristi u komercijalne svrhe, npr. kao ured, prodavnica ili radionica.",
+      "example_translation": "Tražimo odgovarajući poslovni prostor za naš novi kafić."
+    }
+  },
+  {
+    "id": "k1-47",
+    "kapitel": 1,
+    "de": {
+      "word": "die Hygieneanforderung, -en",
+      "synonym": null,
+      "explanation": "Vorschriften und Bedingungen, die eingehalten werden müssen, um Sauberkeit und Gesundheit zu gewährleisten.",
+      "example": "In der Lebensmittelproduktion sind strenge Hygieneanforderungen zu beachten."
+    },
+    "bs": {
+      "word": "higijenski zahtjev",
+      "explanation_translation": "Propisi i uslovi koji se moraju poštovati kako bi se osigurala čistoća i zdravlje.",
+      "example_translation": "U proizvodnji hrane moraju se poštovati strogi higijenski zahtjevi."
+    }
+  },
+  {
+    "id": "k1-48",
+    "kapitel": 1,
+    "de": {
+      "word": "die Flexibilität (Sg.)",
+      "synonym": "die Anpassungsfähigkeit",
+      "explanation": "Die Fähigkeit, sich schnell an neue Situationen oder Bedingungen anzupassen.",
+      "example": "Flexibilität ist in unserem schnelllebigen Arbeitsalltag sehr wichtig."
+    },
+    "bs": {
+      "word": "fleksibilnost",
+      "explanation_translation": "Sposobnost brzog prilagođavanja novim situacijama ili uslovima.",
+      "example_translation": "Fleksibilnost je vrlo važna u našoj brzoj svakodnevici na poslu."
+    }
+  },
+  {
+    "id": "k1-49",
+    "kapitel": 1,
+    "de": {
+      "word": "untervermieten",
+      "synonym": null,
+      "explanation": "Eine gemietete Wohnung oder einen Teil davon an eine andere Person weitervermieten.",
+      "example": "Während meines Auslandsaufenthalts möchte ich meine Wohnung untervermieten."
+    },
+    "bs": {
+      "word": "podnajmiti",
+      "explanation_translation": "Iznajmiti iznajmljeni stan ili dio stana drugoj osobi.",
+      "example_translation": "Tokom boravka u inostranstvu želim podnajmiti svoj stan."
+    }
+  },
+  {
+    "id": "k1-50",
+    "kapitel": 1,
+    "de": {
+      "word": "die Übergabe, -n",
+      "synonym": null,
+      "explanation": "Der Vorgang, bei dem etwas (z.B. Schlüssel, Dokumente, eine Wohnung) von einer Person an eine andere weitergegeben wird.",
+      "example": "Die Übergabe der Wohnung findet nächste Woche statt."
+    },
+    "bs": {
+      "word": "primopredaja, predaja",
+      "explanation_translation": "Proces u kojem se nešto (npr. ključevi, dokumenti, stan) predaje s jedne osobe na drugu.",
+      "example_translation": "Primopredaja stana će se desiti sljedeće sedmice."
+    }
+  },
+  {
+    "id": "k1-51",
+    "kapitel": 1,
+    "de": {
+      "word": "das Übergabeprotokoll, -e",
+      "synonym": null,
+      "explanation": "Ein schriftliches Dokument, das den Zustand einer Wohnung oder eines Gegenstandes bei der Übergabe festhält.",
+      "example": "Im Übergabeprotokoll wurden alle Mängel der Wohnung festgehalten."
+    },
+    "bs": {
+      "word": "primopredajni zapisnik",
+      "explanation_translation": "Pisani dokument koji bilježi stanje stana ili predmeta prilikom primopredaje.",
+      "example_translation": "U primopredajnom zapisniku su zabilježeni svi nedostaci stana."
+    }
+  },
+  {
+    "id": "k1-52",
+    "kapitel": 1,
+    "de": {
+      "word": "ein Angebot einholen (für + A.)",
+      "synonym": "Angebote vergleichen",
+      "explanation": "Verschiedene Angebote von Anbietern für eine bestimmte Leistung oder ein Produkt anfragen, um das beste auszuwählen.",
+      "example": "Wir müssen noch ein Angebot für die Renovierung des Badezimmers einholen."
+    },
+    "bs": {
+      "word": "zatražiti ponudu (za nešto)",
+      "explanation_translation": "Zatražiti različite ponude od ponuđača za određenu uslugu ili proizvod, kako bi se odabrala najbolja.",
+      "example_translation": "Moramo još zatražiti ponudu za renoviranje kupatila."
+    }
+  },
+  {
+    "id": "k1-53",
+    "kapitel": 1,
+    "de": {
+      "word": "flexibel (bezüglich + G.)",
+      "synonym": "anpassungsfähig",
+      "explanation": "Die Fähigkeit, sich leicht an neue Bedingungen oder Anforderungen anzupassen, in Bezug auf etwas Spezifisches.",
+      "example": "Wir sind flexibel bezüglich der Lieferzeit, falls es zu Verzögerungen kommt."
+    },
+    "bs": {
+      "word": "fleksibilan (u pogledu nečega)",
+      "explanation_translation": "Sposobnost lakog prilagođavanja novim uslovima ili zahtjevima, u pogledu nečeg specifičnog.",
+      "example_translation": "Fleksibilni smo u pogledu roka isporuke, ukoliko dođe do kašnjenja."
+    }
+  },
+  {
+    "id": "k1-54",
+    "kapitel": 1,
+    "de": {
+      "word": "noch etwas Spielraum haben (bei + D.)",
+      "synonym": "Verhandlungsspielraum haben",
+      "explanation": "Die Möglichkeit haben, bei einer Sache noch Änderungen oder Anpassungen vorzunehmen oder zu verhandeln.",
+      "example": "Bei dem Preis haben wir noch etwas Spielraum, wir können darüber sprechen."
+    },
+    "bs": {
+      "word": "imati još malo prostora za manevrisanje/pregovaranje (kod nečega)",
+      "explanation_translation": "Imati mogućnost da se kod nečega još izvrše promjene ili prilagođavanja ili da se pregovara.",
+      "example_translation": "Kod cijene imamo još malo prostora za pregovaranje, možemo o tome razgovarati."
+    }
+  },
+  {
+    "id": "k1-55",
+    "kapitel": 1,
+    "de": {
+      "word": "ausgebucht (bis + A.)",
+      "synonym": "voll belegt",
+      "explanation": "Wenn alle Plätze, Termine oder Zimmer belegt sind und keine weiteren Buchungen angenommen werden können, oft bis zu einem bestimmten Zeitpunkt.",
+      "example": "Das Hotel ist für das gesamte Wochenende ausgebucht."
+    },
+    "bs": {
+      "word": "popunjeno, rasprodano (do nekog datuma)",
+      "explanation_translation": "Kada su sva mjesta, termini ili sobe zauzeti i ne mogu se primiti nove rezervacije, često do određenog datuma.",
+      "example_translation": "Hotel je popunjeno za cijeli vikend."
+    }
+  },
+  {
+    "id": "k1-56",
+    "kapitel": 1,
+    "de": {
+      "word": "jdm. (bei etwas) entgegenkommen",
+      "synonym": "kompromissbereit sein",
+      "explanation": "Einer Person in einer Verhandlung oder bei einem Wunsch entgegenkommen, indem man ihre Bedürfnisse berücksichtigt oder Zugeständnisse macht.",
+      "example": "Der Vermieter ist uns beim Mietpreis etwas entgegengekommen."
+    },
+    "bs": {
+      "word": "nekome (kod nečega) izaći u susret",
+      "explanation_translation": "Nekome u pregovorima ili kod želje izaći u susret, uzimajući u obzir njegove potrebe ili čineći ustupke.",
+      "example_translation": "Stanodavac nam je izašao u susret kod cijene najma."
+    }
+  },
+  {
+    "id": "k1-57",
+    "kapitel": 1,
+    "de": {
+      "word": "der Fixpreis, -e",
+      "synonym": "der Festpreis",
+      "explanation": "Ein Preis, der feststeht und nicht verhandelbar ist.",
+      "example": "Für diesen Service bieten wir einen Fixpreis an, ohne versteckte Kosten."
+    },
+    "bs": {
+      "word": "fiksna cijena",
+      "explanation_translation": "Cijena koja je fiksna i nije podložna pregovorima.",
+      "example_translation": "Za ovu uslugu nudimo fiksnu cijenu, bez skrivenih troškova."
+    }
+  },
+  {
+    "id": "k1-58",
+    "kapitel": 1,
+    "de": {
+      "word": "mutig sein",
+      "synonym": "tapfer sein",
+      "explanation": "Die Bereitschaft zeigen, Risiken einzugehen oder sich Herausforderungen zu stellen, ohne Angst zu haben.",
+      "example": "Man muss mutig sein, um eine eigene Firma zu gründen."
+    },
+    "bs": {
+      "word": "biti hrabar",
+      "explanation_translation": "Pokazati spremnost preuzimanja rizika ili suočavanja s izazovima bez straha.",
+      "example_translation": "Moraš biti hrabar da osnuješ vlastitu firmu."
+    }
+  },
+  {
+    "id": "k1-59",
+    "kapitel": 1,
+    "de": {
+      "word": "spontan",
+      "synonym": "impulsiv",
+      "explanation": "Ohne lange Planung oder Überlegung, aus dem Augenblick heraus handelnd.",
+      "example": "Wir haben spontan beschlossen, einen Ausflug in die Berge zu machen."
+    },
+    "bs": {
+      "word": "spontan",
+      "explanation_translation": "Djelovanje bez dugog planiranja ili razmišljanja, iz trenutka.",
+      "example_translation": "Spontano smo odlučili otići na izlet u planine."
+    }
+  },
+  {
+    "id": "k1-60",
+    "kapitel": 1,
+    "de": {
+      "word": "mittelgroß",
+      "synonym": "durchschnittlich groß",
+      "explanation": "Weder besonders groß noch besonders klein, von mittlerer Größe.",
+      "example": "Wir suchen eine mittelgroße Wohnung für unsere Familie."
+    },
+    "bs": {
+      "word": "srednje veličine",
+      "explanation_translation": "Niti posebno velik, niti posebno mali, srednje veličine.",
+      "example_translation": "Tražimo stan srednje veličine za našu porodicu."
+    }
+  },
+  {
+    "id": "k1-61",
+    "kapitel": 1,
+    "de": {
+      "word": "Menschen mit Behinderungen",
+      "synonym": null,
+      "explanation": "Personen, deren körperliche, geistige oder seelische Funktionen dauerhaft beeinträchtigt sind.",
+      "example": "Das neue Bürogebäude ist barrierefrei für Menschen mit Behinderungen gestaltet."
+    },
+    "bs": {
+      "word": "osobe s invaliditetom",
+      "explanation_translation": "Osobe čije su tjelesne, mentalne ili duševne funkcije trajno oštećene.",
+      "example_translation": "Nova poslovna zgrada je dizajnirana bez prepreka za osobe s invaliditetom."
+    }
+  },
+  {
+    "id": "k1-62",
+    "kapitel": 1,
+    "de": {
+      "word": "für etwas verantwortlich sein",
+      "synonym": "die Verantwortung tragen für",
+      "explanation": "Die Zuständigkeit oder Pflicht für eine Aufgabe, ein Ergebnis oder eine Situation haben.",
+      "example": "Er ist für die Organisation des gesamten Events verantwortlich."
+    },
+    "bs": {
+      "word": "biti odgovoran za nešto",
+      "explanation_translation": "Imati nadležnost ili obavezu za zadatak, rezultat ili situaciju.",
+      "example_translation": "On je odgovoran za organizaciju cijelog događaja."
+    }
+  },
+  {
+    "id": "k1-63",
+    "kapitel": 1,
+    "de": {
+      "word": "selbstständig arbeiten",
+      "synonym": "eigenverantwortlich arbeiten",
+      "explanation": "Aufgaben ohne ständige Anleitung oder Aufsicht erledigen; auch: freiberuflich tätig sein.",
+      "example": "In dieser Position ist es wichtig, selbstständig arbeiten zu können."
+    },
+    "bs": {
+      "word": "samostalno raditi",
+      "explanation_translation": "Obavljati zadatke bez stalnog uputstva ili nadzora; također: raditi kao freelancer.",
+      "example_translation": "Na ovoj poziciji je važno moći samostalno raditi."
+    }
+  },
+  {
+    "id": "k1-64",
+    "kapitel": 1,
+    "de": {
+      "word": "Kontakt bekommen",
+      "synonym": "Kontakt aufnehmen",
+      "explanation": "Eine Verbindung oder Beziehung zu einer Person oder Organisation herstellen.",
+      "example": "Ich möchte Kontakt bekommen zu dem Lieferanten, um die Details zu besprechen."
+    },
+    "bs": {
+      "word": "ostvariti kontakt",
+      "explanation_translation": "Uspostaviti vezu ili odnos s osobom ili organizacijom.",
+      "example_translation": "Želim ostvariti kontakt s dobavljačem kako bih razgovarao o detaljima."
+    }
+  },
+  {
+    "id": "k1-65",
+    "kapitel": 1,
+    "de": {
+      "word": "der Betriebsausflug, -ausflüge",
+      "synonym": null,
+      "explanation": "Ein gemeinsamer Ausflug von Mitarbeitern eines Unternehmens, oft zur Stärkung des Teamgeistes.",
+      "example": "Unser jährlicher Betriebsausflug führt uns dieses Jahr in die Berge."
+    },
+    "bs": {
+      "word": "službeni izlet (firme)",
+      "explanation_translation": "Zajednički izlet zaposlenih preduzeća, često radi jačanja timskog duha.",
+      "example_translation": "Naš godišnji službeni izlet nas ove godine vodi u planine."
+    }
+  },
+  {
+    "id": "k1-66",
+    "kapitel": 1,
+    "de": {
+      "word": "in Ordnung sein",
+      "synonym": "gut sein",
+      "explanation": "Zustand, in dem etwas fehlerfrei, korrekt oder zufriedenstellend ist.",
+      "example": "Ist mit dem neuen Computer alles in Ordnung?"
+    },
+    "bs": {
+      "word": "biti u redu",
+      "explanation_translation": "Stanje u kojem je nešto besprijekorno, ispravno ili zadovoljavajuće.",
+      "example_translation": "Je li sve u redu s novim računarom?"
+    }
+  },
+  {
+    "id": "k1-67",
+    "kapitel": 1,
+    "de": {
+      "word": "sich wohlfühlen",
+      "synonym": "sich geborgen fühlen",
+      "explanation": "Ein Gefühl von Behaglichkeit, Zufriedenheit und Geborgenheit haben.",
+      "example": "In unserer neuen Wohnung fühlen wir uns sehr wohl."
+    },
+    "bs": {
+      "word": "osjećati se ugodno/dobro",
+      "explanation_translation": "Imati osjećaj udobnosti, zadovoljstva i sigurnosti.",
+      "example_translation": "U našem novom stanu se osjećamo vrlo ugodno."
+    }
+  },
+  {
+    "id": "k1-68",
+    "kapitel": 1,
+    "de": {
+      "word": "die Kaffeeküche, -n",
+      "synonym": "Teeküche",
+      "explanation": "Eine kleine Küche in einem Büro oder Betrieb, die hauptsächlich für die Zubereitung von Getränken und kleinen Mahlzeiten genutzt wird.",
+      "example": "Wir treffen uns oft in der Kaffeeküche für eine kurze Pause."
+    },
+    "bs": {
+      "word": "kuhinja za kafu (u uredu)",
+      "explanation_translation": "Mala kuhinja u uredu ili preduzeću, koja se uglavnom koristi za pripremu pića i malih obroka.",
+      "example_translation": "Često se sastajemo u kuhinji za kafu radi kratke pauze."
+    }
+  },
+  {
+    "id": "k1-69",
+    "kapitel": 1,
+    "de": {
+      "word": "der Küchenboden, ¨",
+      "synonym": null,
+      "explanation": "Der Fußboden in einer Küche.",
+      "example": "Der Küchenboden muss regelmäßig gereinigt werden, da er schnell schmutzig wird."
+    },
+    "bs": {
+      "word": "kuhinjski pod",
+      "explanation_translation": "Pod u kuhinji.",
+      "example_translation": "Kuhinjski pod se mora redovno čistiti jer se brzo prlja."
+    }
+  },
+  {
+    "id": "k1-70",
+    "kapitel": 1,
+    "de": {
+      "word": "der Riss, -e",
+      "synonym": "die Spalte",
+      "explanation": "Eine feine, längliche Öffnung oder Beschädigung in einer Oberfläche oder einem Material.",
+      "example": "Es gibt einen kleinen Riss in der Wand im Wohnzimmer."
+    },
+    "bs": {
+      "word": "pukotina, napuklina",
+      "explanation_translation": "Fina, izdužena pukotina ili oštećenje na površini ili materijalu.",
+      "example_translation": "Postoji mala pukotina u zidu u dnevnoj sobi."
+    }
+  },
+  {
+    "id": "k1-71",
+    "kapitel": 1,
+    "de": {
+      "word": "sich um etwas kümmern",
+      "synonym": "etwas erledigen",
+      "explanation": "Die Verantwortung für etwas übernehmen und dafür sorgen, dass es geregelt oder erledigt wird.",
+      "example": "Könntest du dich bitte um die Rechnung kümmern?"
+    },
+    "bs": {
+      "word": "pobrinuti se za nešto",
+      "explanation_translation": "Preuzeti odgovornost za nešto i pobrinuti se da se to riješi ili obavi.",
+      "example_translation": "Možeš li se, molim te, pobrinuti za račun?"
+    }
+  },
+  {
+    "id": "k1-72",
+    "kapitel": 1,
+    "de": {
+      "word": "einen Handwerker bestellen",
+      "synonym": "einen Handwerker beauftragen",
+      "explanation": "Jemanden mit handwerklichen Fähigkeiten anrufen oder beauftragen, um Reparaturen oder Arbeiten auszuführen.",
+      "example": "Wir müssen einen Handwerker bestellen, um das tropfende Badewasser zu reparieren."
+    },
+    "bs": {
+      "word": "naručiti majstora",
+      "explanation_translation": "Pozvati ili angažovati nekoga s majstorskim vještinama da izvrši popravke ili radove.",
+      "example_translation": "Moramo naručiti majstora da popravi kapajuću vodu u kupaonici."
+    }
+  },
+  {
+    "id": "k1-73",
+    "kapitel": 1,
+    "de": {
+      "word": "sich ein Problem ansehen",
+      "synonym": "ein Problem untersuchen",
+      "explanation": "Ein Problem genau betrachten und analysieren, um dessen Ursache zu finden oder eine Lösung zu erarbeiten.",
+      "example": "Der Techniker kommt morgen vorbei, um sich das Problem mit dem Internet anzusehen."
+    },
+    "bs": {
+      "word": "pogledati problem",
+      "explanation_translation": "Pažljivo pogledati i analizirati problem kako bi se pronašao uzrok ili razradilo rješenje.",
+      "example_translation": "Tehničar dolazi sutra da pogleda problem s internetom."
+    }
+  },
+  {
+    "id": "k1-74",
+    "kapitel": 1,
+    "de": {
+      "word": "die Schilderung des Problems",
+      "synonym": "die Problembeschreibung",
+      "explanation": "Eine detaillierte Erklärung oder Beschreibung einer Schwierigkeit oder eines Fehlers.",
+      "example": "Die Schilderung des Problems half dem Support, schnell eine Lösung zu finden."
+    },
+    "bs": {
+      "word": "opis problema",
+      "explanation_translation": "Detaljno objašnjenje ili opis poteškoće ili greške.",
+      "example_translation": "Opis problema je pomogao podršci da brzo pronađe rješenje."
+    }
+  },
+  {
+    "id": "k1-75",
+    "kapitel": 1,
+    "de": {
+      "word": "ein Problem schildern",
+      "synonym": "ein Problem beschreiben",
+      "explanation": "Eine Schwierigkeit oder einen Fehler detailliert erklären oder darlegen.",
+      "example": "Er musste dem Arzt seine Symptome genau schildern."
+    },
+    "bs": {
+      "word": "opisati problem",
+      "explanation_translation": "Detaljno objasniti ili predstaviti poteškoću ili grešku.",
+      "example_translation": "Morao je doktoru tačno opisati svoje simptome."
+    }
+  },
+  {
+    "id": "k1-76",
+    "kapitel": 1,
+    "de": {
+      "word": "die Erledigung (Sg.)",
+      "synonym": "die Ausführung",
+      "explanation": "Die Durchführung oder Vollendung einer Aufgabe, einer Angelegenheit oder eines Problems.",
+      "example": "Die schnelle Erledigung der Aufgaben ist in unserem Team sehr wichtig."
+    },
+    "bs": {
+      "word": "obavljanje, izvršenje",
+      "explanation_translation": "Izvršenje ili završetak zadatka, posla ili problema.",
+      "example_translation": "Brzo obavljanje zadataka je vrlo važno u našem timu."
+    }
+  },
+  {
+    "id": "k1-77",
+    "kapitel": 1,
+    "de": {
+      "word": "die Erreichbarkeit, -en",
+      "synonym": null,
+      "explanation": "Die Möglichkeit, jemanden oder etwas zu erreichen, sei es telefonisch, persönlich oder geografisch.",
+      "example": "Die gute Erreichbarkeit des Büros mit öffentlichen Verkehrsmitteln ist ein Vorteil."
+    },
+    "bs": {
+      "word": "dostupnost",
+      "explanation_translation": "Mogućnost da se neko ili nešto dostigne, bilo telefonski, lično ili geografski.",
+      "example_translation": "Dobra dostupnost ureda javnim prevozom je prednost."
+    }
+  },
+  {
+    "id": "k1-78",
+    "kapitel": 1,
+    "de": {
+      "word": "die verantwortliche Firma",
+      "synonym": null,
+      "explanation": "Das Unternehmen, das für eine bestimmte Aufgabe, ein Projekt oder einen Bereich zuständig ist.",
+      "example": "Die verantwortliche Firma für die Wartung der Aufzüge wird sich darum kümmern."
+    },
+    "bs": {
+      "word": "odgovorna firma",
+      "explanation_translation": "Preduzeće koje je zaduženo za određeni zadatak, projekat ili područje.",
+      "example_translation": "Odgovorna firma za održavanje liftova će se pobrinuti za to."
+    }
+  },
+  {
+    "id": "k1-79",
+    "kapitel": 1,
+    "de": {
+      "word": "einen Schaden beheben",
+      "synonym": "einen Schaden reparieren",
+      "explanation": "Eine Beschädigung oder einen Mangel reparieren oder beseitigen.",
+      "example": "Wir müssen schnell einen Handwerker finden, der den Wasserschaden beheben kann."
+    },
+    "bs": {
+      "word": "otkloniti štetu",
+      "explanation_translation": "Popraviti ili otkloniti oštećenje ili nedostatak.",
+      "example_translation": "Moramo brzo pronaći majstora koji može otkloniti štetu od vode."
+    }
+  },
+  {
+    "id": "k1-80",
+    "kapitel": 1,
+    "de": {
+      "word": "sich auf etwas beziehen",
+      "synonym": "sich auf etwas berufen",
+      "explanation": "In Bezug zu etwas stehen, etwas als Grundlage oder Bezugspunkt haben, oder auf etwas verweisen.",
+      "example": "Mein Anruf bezieht sich auf Ihre Anzeige in der Zeitung."
+    },
+    "bs": {
+      "word": "odnositi se na nešto, pozivati se na nešto",
+      "explanation_translation": "Biti u vezi s nečim, imati nešto kao osnovu ili referentnu tačku, ili se pozivati na nešto.",
+      "example_translation": "Moj poziv se odnosi na vaš oglas u novinama."
+    }
+  },
+  {
+    "id": "k1-81",
+    "kapitel": 1,
+    "de": {
+      "word": "mittlerweile",
+      "synonym": "inzwischen",
+      "explanation": "In der Zeit, die seit einem bestimmten Ereignis vergangen ist; inzwischen.",
+      "example": "Sie hat mittlerweile einen neuen Job gefunden."
+    },
+    "bs": {
+      "word": "u međuvremenu, u međuvremenu",
+      "explanation_translation": "U vremenu koje je proteklo od određenog događaja; u međuvremenu.",
+      "example_translation": "U međuvremenu je pronašla novi posao."
+    }
+  },
+  {
+    "id": "k1-82",
+    "kapitel": 1,
+    "de": {
+      "word": "die entstandenen Unannehmlichkeiten",
+      "synonym": null,
+      "explanation": "Die Probleme, Störungen oder unangenehmen Situationen, die durch ein Ereignis verursacht wurden.",
+      "example": "Wir bedauern die entstandenen Unannehmlichkeiten sehr."
+    },
+    "bs": {
+      "word": "nastale neugodnosti",
+      "explanation_translation": "Problemi, smetnje ili neugodne situacije koje su nastale zbog nekog događaja.",
+      "example_translation": "Vrlo nam je žao zbog nastalih neugodnosti."
+    }
+  },
+  {
+    "id": "k1-83",
+    "kapitel": 1,
+    "de": {
+      "word": "der Reparaturauftrag, -aufträge",
+      "synonym": null,
+      "explanation": "Eine formelle Anweisung oder Bestellung zur Durchführung einer Reparatur.",
+      "example": "Der Reparaturauftrag für die defekte Maschine wurde bereits erteilt."
+    },
+    "bs": {
+      "word": "nalog za popravak",
+      "explanation_translation": "Formalna uputa ili narudžba za izvršenje popravke.",
+      "example_translation": "Nalog za popravak neispravne mašine je već izdat."
+    }
+  },
+  {
+    "id": "k1-84",
+    "kapitel": 1,
+    "de": {
+      "word": "mindern (um + A.)",
+      "synonym": "reduzieren",
+      "explanation": "Den Wert, die Menge oder die Intensität von etwas verringern, oft um einen bestimmten Betrag.",
+      "example": "Wir konnten den Kaufpreis um 10% mindern."
+    },
+    "bs": {
+      "word": "smanjiti (za)",
+      "explanation_translation": "Smanjiti vrijednost, količinu ili intenzitet nečega, često za određeni iznos.",
+      "example_translation": "Uspjeli smo smanjiti kupovnu cijenu za 10%."
+    }
+  },
+  {
+    "id": "k1-85",
+    "kapitel": 1,
+    "de": {
+      "word": "der Abfluss, ¨e",
+      "synonym": null,
+      "explanation": "Die Öffnung oder das Rohr, durch das Wasser oder andere Flüssigkeiten abfließen.",
+      "example": "Der Abfluss in der Spüle ist verstopft."
+    },
+    "bs": {
+      "word": "odvod",
+      "explanation_translation": "Otvor ili cijev kroz koju voda ili druge tečnosti otiču.",
+      "example_translation": "Odvod u sudoperu je začepljen."
+    }
+  },
+  {
+    "id": "k1-86",
+    "kapitel": 1,
+    "de": {
+      "word": "der Altbau, -ten",
+      "synonym": null,
+      "explanation": "Ein Gebäude, das in einer früheren Epoche gebaut wurde, oft mit besonderem architektonischem Charakter.",
+      "example": "Ich liebe den Charme eines Altbaus mit hohen Decken und Holzböden."
+    },
+    "bs": {
+      "word": "stara zgrada",
+      "explanation_translation": "Zgrada koja je izgrađena u ranijoj epohi, često s posebnim arhitektonskim karakterom.",
+      "example_translation": "Volim šarm stare zgrade s visokim plafonima i drvenim podovima."
+    }
+  },
+  {
+    "id": "k1-87",
+    "kapitel": 1,
+    "de": {
+      "word": "der Fenstergriff, -e",
+      "synonym": null,
+      "explanation": "Der Griff, mit dem man ein Fenster öffnet, schließt oder kippt.",
+      "example": "Der Fenstergriff in der Küche ist locker."
+    },
+    "bs": {
+      "word": "ručka za prozor",
+      "explanation_translation": "Ručka kojom se otvara, zatvara ili naginje prozor.",
+      "example_translation": "Ručka za prozor u kuhinji je labava."
+    }
+  },
+  {
+    "id": "k1-88",
+    "kapitel": 1,
+    "de": {
+      "word": "die Fliese, -n",
+      "synonym": null,
+      "explanation": "Eine dünne Platte aus Keramik, Stein oder Glas, die zur Verkleidung von Wänden und Böden verwendet wird.",
+      "example": "Die Fliesen im Badezimmer sind sehr alt und müssen ersetzt werden."
+    },
+    "bs": {
+      "word": "pločica",
+      "explanation_translation": "Tanka ploča od keramike, kamena ili stakla koja se koristi za oblaganje zidova i podova.",
+      "example_translation": "Pločice u kupatilu su vrlo stare i moraju se zamijeniti."
+    }
+  },
+  {
+    "id": "k1-89",
+    "kapitel": 1,
+    "de": {
+      "word": "der Fliesenleger, –",
+      "synonym": null,
+      "explanation": "Ein Handwerker, der Fliesen an Wänden und Böden verlegt.",
+      "example": "Wir brauchen einen Fliesenleger, der unser Bad neu fliest."
+    },
+    "bs": {
+      "word": "keramičar (muški rod)",
+      "explanation_translation": "Majstor koji postavlja pločice na zidove i podove.",
+      "example_translation": "Trebamo keramičara da nam preplavi kupatilo."
+    }
+  },
+  {
+    "id": "k1-90",
+    "kapitel": 1,
+    "de": {
+      "word": "die Fliesenlegerin, -nen",
+      "synonym": null,
+      "explanation": "Eine Handwerkerin, die Fliesen an Wänden und Böden verlegt.",
+      "example": "Die Fliesenlegerin hat eine hervorragende Arbeit geleistet."
+    },
+    "bs": {
+      "word": "keramičarka (ženski rod)",
+      "explanation_translation": "Majstorica koja postavlja pločice na zidove i podove.",
+      "example_translation": "Keramičarka je obavila izvrstan posao."
+    }
+  },
+  {
+    "id": "k1-91",
+    "kapitel": 1,
+    "de": {
+      "word": "der Internetanschluss, ¨e",
+      "synonym": null,
+      "explanation": "Die technische Verbindung, die den Zugang zum Internet ermöglicht.",
+      "example": "Haben Sie in der neuen Wohnung schon einen Internetanschluss?"
+    },
+    "bs": {
+      "word": "internetska veza",
+      "explanation_translation": "Tehnička veza koja omogućava pristup internetu.",
+      "example_translation": "Imate li već internetsku vezu u novom stanu?"
+    }
+  },
+  {
+    "id": "k1-92",
+    "kapitel": 1,
+    "de": {
+      "word": "das Parkett, -e/-s",
+      "synonym": null,
+      "explanation": "Ein Bodenbelag aus kleinen Holzstücken, die in Mustern verlegt werden.",
+      "example": "Das alte Parkett muss abgeschliffen und neu versiegelt werden."
+    },
+    "bs": {
+      "word": "parket",
+      "explanation_translation": "Podna obloga od malih komada drveta, koji se postavljaju u uzorcima.",
+      "example_translation": "Stari parket mora biti izbrušen i ponovo premazan."
+    }
+  },
+  {
+    "id": "k1-93",
+    "kapitel": 1,
+    "de": {
+      "word": "der Rollladen, ¨",
+      "synonym": null,
+      "explanation": "Eine Abdeckung für Fenster, die von außen oder innen heruntergelassen werden kann, um Licht oder Blicke abzuhalten.",
+      "example": "Am Morgen ziehe ich immer die Rollläden hoch."
+    },
+    "bs": {
+      "word": "roletna",
+      "explanation_translation": "Pokrivač za prozore koji se može spustiti izvana ili iznutra kako bi se spriječio ulazak svjetlosti ili pogleda.",
+      "example_translation": "Ujutro uvijek podignem roletne."
+    }
+  },
+  {
+    "id": "k1-94",
+    "kapitel": 1,
+    "de": {
+      "word": "die Schublade, -n",
+      "synonym": null,
+      "explanation": "Ein ausziehbarer Behälter in einem Möbelstück, zum Beispiel in einem Schrank oder Schreibtisch.",
+      "example": "Ich habe die wichtigen Dokumente in der oberen Schublade abgelegt."
+    },
+    "bs": {
+      "word": "ladica",
+      "explanation_translation": "Izvlačna posuda u komadu namještaja, na primjer u ormaru ili radnom stolu.",
+      "example_translation": "Važne dokumente sam stavio u gornju ladicu."
+    }
+  },
+  {
+    "id": "k1-95",
+    "kapitel": 1,
+    "de": {
+      "word": "der Sekt (Sg.)",
+      "synonym": "der Champagner",
+      "explanation": "Ein prickelndes alkoholisches Getränk, ähnlich wie Champagner, oft zu besonderen Anlässen getrunken.",
+      "example": "Zum Einzug in die neue Wohnung haben wir mit Sekt angestoßen."
+    },
+    "bs": {
+      "word": "pjenušac",
+      "explanation_translation": "Pjenušavo alkoholno piće, slično šampanjcu, često se pije u posebnim prilikama.",
+      "example_translation": "Za useljenje u novi stan nazdravili smo pjenušcem."
+    }
+  },
+  {
+    "id": "k1-96",
+    "kapitel": 1,
+    "de": {
+      "word": "das Stockwerk, -e",
+      "synonym": "die Etage",
+      "explanation": "Eine Ebene oder Geschoss in einem Gebäude.",
+      "example": "Unsere Büros befinden sich im dritten Stockwerk."
+    },
+    "bs": {
+      "word": "sprat",
+      "explanation_translation": "Nivo ili etaža u zgradi.",
+      "example_translation": "Naši uredi se nalaze na trećem spratu."
+    }
+  },
+  {
+    "id": "k1-97",
+    "kapitel": 1,
+    "de": {
+      "word": "das Telefonat, -e",
+      "synonym": "der Anruf",
+      "explanation": "Ein Gespräch, das über das Telefon geführt wird.",
+      "example": "Ich muss noch ein wichtiges Telefonat erledigen."
+    },
+    "bs": {
+      "word": "telefonski razgovor",
+      "explanation_translation": "Razgovor koji se vodi putem telefona.",
+      "example_translation": "Moram još obaviti jedan važan telefonski razgovor."
+    }
+  },
+  {
+    "id": "k1-98",
+    "kapitel": 1,
+    "de": {
+      "word": "die Umzugsfirma, -en",
+      "synonym": "die Spedition",
+      "explanation": "Ein Unternehmen, das Dienstleistungen für Umzüge anbietet, wie z.B. das Verpacken und Transportieren von Möbeln.",
+      "example": "Wir haben eine Umzugsfirma beauftragt, uns beim Tragen der Möbel zu helfen."
+    },
+    "bs": {
+      "word": "firma za selidbe",
+      "explanation_translation": "Preduzeće koje nudi usluge selidbe, kao što su pakovanje i transport namještaja.",
+      "example_translation": "Angažovali smo firmu za selidbe da nam pomogne u nošenju namještaja."
+    }
+  },
+  {
+    "id": "k1-99",
+    "kapitel": 1,
+    "de": {
+      "word": "die Unterlagen (Pl.)",
+      "synonym": "die Dokumente",
+      "explanation": "Wichtige schriftliche Dokumente, Papiere oder Akten, die Informationen enthalten.",
+      "example": "Bitte bringen Sie alle notwendigen Unterlagen zum Termin mit."
+    },
+    "bs": {
+      "word": "dokumenti, spisi",
+      "explanation_translation": "Važni pisani dokumenti, papiri ili spisi koji sadrže informacije.",
+      "example_translation": "Molimo Vas da ponesete sve potrebne dokumente na termin."
+    }
+  },
+  {
+    "id": "k1-100",
+    "kapitel": 1,
+    "de": {
+      "word": "die Verkehrsanbindung, -en",
+      "synonym": null,
+      "explanation": "Die Verfügbarkeit und Qualität von Verkehrsmitteln (z.B. Bus, Bahn, Straße) in einem bestimmten Gebiet.",
+      "example": "Die Wohnung hat eine sehr gute Verkehrsanbindung an das Stadtzentrum."
+    },
+    "bs": {
+      "word": "prometna povezanost",
+      "explanation_translation": "Dostupnost i kvalitet saobraćajnih sredstava (npr. autobus, voz, cesta) na određenom području.",
+      "example_translation": "Stan ima vrlo dobru prometnu povezanost sa centrom grada."
+    }
+  },
+  {
+    "id": "k1-101",
+    "kapitel": 1,
+    "de": {
+      "word": "der Vorort, -e",
+      "synonym": null,
+      "explanation": "Eine Siedlung oder Gemeinde, die am Rande einer größeren Stadt liegt.",
+      "example": "Viele Familien ziehen in die Vororte, weil es dort ruhiger ist."
+    },
+    "bs": {
+      "word": "predgrađe",
+      "explanation_translation": "Naselje ili općina koja se nalazi na rubu većeg grada.",
+      "example_translation": "Mnoge porodice se sele u predgrađa jer je tamo mirnije."
+    }
+  },
+  {
+    "id": "k1-102",
+    "kapitel": 1,
+    "de": {
+      "word": "abbrechen",
+      "synonym": "beenden",
+      "explanation": "Ein Vorhaben beenden, etwas zum Einsturz bringen oder einen Teil davon entfernen.",
+      "example": "Sie mussten die Bauarbeiten wegen des starken Sturms abbrechen."
+    },
+    "bs": {
+      "word": "prekinuti, srušiti",
+      "explanation_translation": "Prekinuti poduhvat, nešto srušiti ili ukloniti dio toga.",
+      "example_translation": "Morali su prekinuti građevinske radove zbog jake oluje."
+    }
+  },
+  {
+    "id": "k1-103",
+    "kapitel": 1,
+    "de": {
+      "word": "anstoßen",
+      "synonym": null,
+      "explanation": "Mit Gläsern miteinander klirren, um auf etwas zu trinken; auch: unbeabsichtigt gegen etwas stoßen.",
+      "example": "Lasst uns auf den Erfolg unseres Projekts anstoßen!"
+    },
+    "bs": {
+      "word": "nazdraviti, sudariti se",
+      "explanation_translation": "Kucnuti čašama radi nazdravljanja nečemu; također: slučajno udariti o nešto.",
+      "example_translation": "Nazdravimo uspjehu našeg projekta!"
+    }
+  },
+  {
+    "id": "k1-104",
+    "kapitel": 1,
+    "de": {
+      "word": "beauftragen (mit + A.)",
+      "synonym": "den Auftrag erteilen",
+      "explanation": "Jemandem eine Aufgabe oder einen Auftrag geben, etwas zu tun.",
+      "example": "Wir haben eine Firma mit der Reinigung der Büros beauftragt."
+    },
+    "bs": {
+      "word": "zadužiti (nečim), naručiti",
+      "explanation_translation": "Dati nekome zadatak ili nalog da nešto uradi.",
+      "example_translation": "Angažovali smo firmu za čišćenje ureda."
+    }
+  },
+  {
+    "id": "k1-105",
+    "kapitel": 1,
+    "de": {
+      "word": "beheben",
+      "synonym": "beseitigen",
+      "explanation": "Einen Fehler, Mangel oder Schaden korrigieren oder beseitigen.",
+      "example": "Der Techniker konnte den Softwarefehler schnell beheben."
+    },
+    "bs": {
+      "word": "otkloniti, ispraviti",
+      "explanation_translation": "Ispraviti ili ukloniti grešku, nedostatak ili štetu.",
+      "example_translation": "Tehničar je brzo uspio otkloniti softversku grešku."
+    }
+  },
+  {
+    "id": "k1-106",
+    "kapitel": 1,
+    "de": {
+      "word": "besorgen",
+      "synonym": "kaufen",
+      "explanation": "Etwas beschaffen, kaufen oder organisieren, das man braucht.",
+      "example": "Ich muss noch schnell die fehlenden Materialien besorgen."
+    },
+    "bs": {
+      "word": "nabaviti, pribaviti",
+      "explanation_translation": "Nabaviti, kupiti ili organizovati nešto što je potrebno.",
+      "example_translation": "Moram još brzo nabaviti nedostajuće materijale."
+    }
+  },
+  {
+    "id": "k1-107",
+    "kapitel": 1,
+    "de": {
+      "word": "klemmen",
+      "synonym": "steckenbleiben",
+      "explanation": "Sich nicht mehr bewegen lassen oder festsitzen, oft weil etwas nicht richtig funktioniert.",
+      "example": "Die Schublade klemmt, ich kann sie nicht richtig öffnen."
+    },
+    "bs": {
+      "word": "zaglaviti, zatezati",
+      "explanation_translation": "Ne moći se više pomjeriti ili biti zaglavljen, često zato što nešto ne funkcioniše ispravno.",
+      "example_translation": "Ladica se zaglavila, ne mogu je pravilno otvoriti."
+    }
+  },
+  {
+    "id": "k1-108",
+    "kapitel": 1,
+    "de": {
+      "word": "kontaktieren",
+      "synonym": "sich in Verbindung setzen mit",
+      "explanation": "Mit jemandem in Kontakt treten, meistens per Telefon, E-Mail oder persönlich.",
+      "example": "Wir werden Sie kontaktieren, sobald wir Neuigkeiten haben."
+    },
+    "bs": {
+      "word": "kontaktirati",
+      "explanation_translation": "Stupiti u kontakt s nekim, uglavnom telefonom, e-mailom ili lično.",
+      "example_translation": "Kontaktiraćemo Vas čim budemo imali novosti."
+    }
+  },
+  {
+    "id": "k1-109",
+    "kapitel": 1,
+    "de": {
+      "word": "schildern",
+      "synonym": "beschreiben",
+      "explanation": "Etwas detailliert und anschaulich erzählen oder beschreiben.",
+      "example": "Könnten Sie mir bitte die Situation genauer schildern?"
+    },
+    "bs": {
+      "word": "opisati, izložiti",
+      "explanation_translation": "Nešto detaljno i slikovito ispričati ili opisati.",
+      "example_translation": "Možete li mi, molim vas, preciznije opisati situaciju?"
+    }
+  },
+  {
+    "id": "k1-110",
+    "kapitel": 1,
+    "de": {
+      "word": "streichen",
+      "synonym": "malen",
+      "explanation": "Eine Wand oder Oberfläche mit Farbe versehen; auch: etwas absagen oder aus einer Liste entfernen.",
+      "example": "Wir wollen das Wohnzimmer in einem hellen Gelb streichen."
+    },
+    "bs": {
+      "word": "ofarbati, prefarbati (zid); štrajkati (raditi)",
+      "explanation_translation": "Obojiti zid ili površinu; također: nešto otkazati ili ukloniti s liste.",
+      "example_translation": "Želimo ofarbati dnevnu sobu u svijetlo žutu boju."
+    }
+  },
+  {
+    "id": "k1-111",
+    "kapitel": 1,
+    "de": {
+      "word": "tropfen",
+      "synonym": null,
+      "explanation": "Wenn Flüssigkeit in kleinen Mengen, Tröpfchen für Tröpfchen, herunterfällt.",
+      "example": "Der Wasserhahn in der Küche tropft die ganze Zeit."
+    },
+    "bs": {
+      "word": "kapati",
+      "explanation_translation": "Kada tečnost pada u malim količinama, kap po kap.",
+      "example_translation": "Slavina u kuhinji cijelo vrijeme kapa."
+    }
+  },
+  {
+    "id": "k1-112",
+    "kapitel": 1,
+    "de": {
+      "word": "vereinbaren (mit + D.)",
+      "synonym": "abmachen",
+      "explanation": "Einen Termin, eine Regelung oder eine Bedingung mit jemandem festlegen.",
+      "example": "Ich habe einen Termin mit dem Kunden für nächste Woche vereinbart."
+    },
+    "bs": {
+      "word": "dogovoriti (s nekim)",
+      "explanation_translation": "Dogovoriti termin, pravilo ili uslov s nekim.",
+      "example_translation": "Dogovorio sam termin s klijentom za sljedeću sedmicu."
+    }
+  },
+  {
+    "id": "k1-113",
+    "kapitel": 1,
+    "de": {
+      "word": "jemanden verständigen",
+      "synonym": "informieren",
+      "explanation": "Einer Person eine Nachricht zukommen lassen oder sie über etwas informieren.",
+      "example": "Bitte verständigen Sie die Feuerwehr im Notfall."
+    },
+    "bs": {
+      "word": "obavijestiti nekoga, javiti nekome",
+      "explanation_translation": "Poslati poruku osobi ili je obavijestiti o nečemu.",
+      "example_translation": "Molimo Vas da u hitnom slučaju obavijestite vatrogasce."
+    }
+  },
+  {
+    "id": "k1-114",
+    "kapitel": 1,
+    "de": {
+      "word": "dicht",
+      "synonym": "undurchlässig",
+      "explanation": "So beschaffen, dass keine Flüssigkeit oder Luft durchdringen kann; auch: eng beieinander.",
+      "example": "Das Fenster ist nicht ganz dicht, es zieht ein wenig."
+    },
+    "bs": {
+      "word": "nepropustan, zatvoren, gust",
+      "explanation_translation": "Takav da tečnost ili vazduh ne mogu prodrijeti; također: blizu jedan drugome, gusto.",
+      "example_translation": "Prozor nije potpuno nepropustan, malo propuhuje."
+    }
+  },
+  {
+    "id": "k1-115",
+    "kapitel": 1,
+    "de": {
+      "word": "geräumig",
+      "synonym": "weitläufig",
+      "explanation": "Viel Platz bietend, groß und weit.",
+      "example": "Die neue Wohnung ist sehr geräumig und hell."
+    },
+    "bs": {
+      "word": "prostran",
+      "explanation_translation": "Nudi mnogo prostora, velik i širok.",
+      "example_translation": "Novi stan je vrlo prostran i svijetao."
+    }
+  },
+  {
+    "id": "k1-116",
+    "kapitel": 1,
+    "de": {
+      "word": "einig (sich einig sein)",
+      "synonym": "übereinstimmen",
+      "explanation": "Eine gemeinsame Meinung oder Entscheidung haben, sich in einem Punkt verständigt haben.",
+      "example": "Wir sind uns einig, dass dies die beste Lösung ist."
+    },
+    "bs": {
+      "word": "složan (biti složan)",
+      "explanation_translation": "Imati zajedničko mišljenje ili odluku, dogovoriti se o nekoj tački.",
+      "example_translation": "Slažemo se da je ovo najbolje rješenje."
+    }
+  },
+  {
+    "id": "k1-117",
+    "kapitel": 1,
+    "de": {
+      "word": "aufgrund (+ G.)",
+      "synonym": "wegen",
+      "explanation": "Als Ursache oder Begründung für etwas.",
+      "example": "Aufgrund des schlechten Wetters wurde das Konzert abgesagt."
+    },
+    "bs": {
+      "word": "zbog, na osnovu",
+      "explanation_translation": "Kao uzrok ili obrazloženje za nešto.",
+      "example_translation": "Zbog lošeg vremena koncert je otkazan."
+    }
+  },
+  {
+    "id": "k1-118",
+    "kapitel": 1,
+    "de": {
+      "word": "bei Bedarf",
+      "synonym": "wenn nötig",
+      "explanation": "Wenn es notwendig oder erforderlich ist.",
+      "example": "Zusätzliche Materialien können bei Bedarf bestellt werden."
+    },
+    "bs": {
+      "word": "po potrebi",
+      "explanation_translation": "Kada je to potrebno ili neophodno.",
+      "example_translation": "Dodatni materijali se mogu naručiti po potrebi."
+    }
+  },
+  {
+    "id": "k1-119",
+    "kapitel": 1,
+    "de": {
+      "word": "im Voraus",
+      "synonym": "vorher",
+      "explanation": "Vor einem bestimmten Zeitpunkt oder Ereignis, im Vorhinein.",
+      "example": "Wir bitten Sie, die Rechnung im Voraus zu bezahlen."
+    },
+    "bs": {
+      "word": "unaprijed",
+      "explanation_translation": "Prije određenog vremena ili događaja, unaprijed.",
+      "example_translation": "Molimo Vas da račun platite unaprijed."
+    }
+  },
+  {
+    "id": "k1-120",
+    "kapitel": 1,
+    "de": {
+      "word": "nochmals",
+      "synonym": "wieder",
+      "explanation": "Eine weitere oder wiederholte Male.",
+      "example": "Könnten Sie das bitte nochmals erklären?"
+    },
+    "bs": {
+      "word": "još jednom",
+      "explanation_translation": "Još jednom ili ponovljeno.",
+      "example_translation": "Možete li to, molim Vas, objasniti još jednom?"
+    }
+  }
+]
