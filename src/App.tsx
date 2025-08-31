@@ -17,7 +17,7 @@ function App() {
   const [selectedChapter, setSelectedChapter] = useState<number | 'all'>('all');
   const [mixMenuOpen, setMixMenuOpen] = useState(false);
   const [lastGuess, setLastGuess] = useState<'correct' | 'incorrect' | null>(null);
-
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   useEffect(() => {
     if (!cardsLoading && cards.length > 0) {
       createDeck('all', 'all');
