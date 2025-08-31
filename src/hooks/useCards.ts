@@ -18,6 +18,7 @@ export const useCards = () => {
             throw new Error(`HTTP greška! status: ${response.status}`);
           }
           const seedCards = await response.json();
+          debugger;
           setCards(seedCards);
         } catch (error) {
           console.error("Neuspješno učitavanje ili parsiranje seed.json", error);
